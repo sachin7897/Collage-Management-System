@@ -26,7 +26,7 @@ The guide covers:
 
 For complete documentation, database setup instructions, and step-by-step guidance, please refer to the following document:
 
-**[ Read the Complete Setup Guide (PDF)](Setup_Guide.pdf)**
+[📄 Read the Complete Setup Guide (PDF)](./Setup%20Guide.pdf)
 
 Please follow the instructions in the PDF to set up and explore the project.
 
