@@ -1,0 +1,32 @@
+faculty_id,first_name,last_name,email,designation,salary,dept_id
+1,Anil,Sharma,anil.sharma@college.edu,Professor,90000,1
+2,Neha,Verma,neha.verma@college.edu,Assistant Professor,65000,1
+3,Rakesh,Kumar,rakesh.kumar@college.edu,Professor,88000,2
+4,Pooja,Nair,pooja.nair@college.edu,Associate Professor,75000,3
+5,Priya,Nair,priya.nair1@college.edu,Associate Professor,73500,2
+6,Rahul,Mehta,rahul.mehta2@college.edu,Assistant Professor,62500,3
+7,Sneha,Banerjee,sneha.banerjee3@college.edu,Professor,109500,4
+8,Vikram,Pillai,vikram.pillai4@college.edu,Associate Professor,71500,5
+9,Anjali,Bhatt,anjali.bhatt5@college.edu,Assistant Professor,67500,6
+10,Suresh,Malhotra,suresh.malhotra6@college.edu,Professor,85000,7
+11,Kavita,Verma,kavita.verma7@college.edu,Associate Professor,82000,8
+12,Manoj,Reddy,manoj.reddy8@college.edu,Assistant Professor,71500,9
+13,Deepa,Joshi,deepa.joshi9@college.edu,Professor,109000,10
+14,Rajesh,Chatterjee,rajesh.chatterjee10@college.edu,Associate Professor,82500,1
+15,Meena,Menon,meena.menon11@college.edu,Assistant Professor,51500,2
+16,Sanjay,Saxena,sanjay.saxena12@college.edu,Professor,85500,3
+17,Pooja,Chopra,pooja.chopra13@college.edu,Associate Professor,80000,4
+18,Arun,Iyer,arun.iyer14@college.edu,Assistant Professor,65500,5
+19,Ritu,Gupta,ritu.gupta15@college.edu,Professor,88500,6
+20,Karan,Kulkarni,karan.kulkarni16@college.edu,Associate Professor,84000,7
+21,Nisha,Das,nisha.das17@college.edu,Assistant Professor,63500,8
+22,Vivek,Agarwal,vivek.agarwal18@college.edu,Professor,90000,9
+23,Shalini,Kapoor,shalini.kapoor19@college.edu,Associate Professor,94000,10
+24,Amit,Sharma,amit.sharma20@college.edu,Assistant Professor,52000,1
+25,Priya,Nair,priya.nair21@college.edu,Professor,106500,2
+26,Rahul,Mehta,rahul.mehta22@college.edu,Associate Professor,82500,3
+27,Sneha,Banerjee,sneha.banerjee23@college.edu,Assistant Professor,70500,4
+28,Vikram,Pillai,vikram.pillai24@college.edu,Professor,87500,5
+29,Anjali,Bhatt,anjali.bhatt25@college.edu,Associate Professor,89000,6
+30,Suresh,Malhotra,suresh.malhotra26@college.edu,Assistant Professor,53500,7
+31,Kavita,Verma,kavita.verma27@college.edu,Professor,102500,8
